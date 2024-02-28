@@ -1,4 +1,4 @@
-# Human-Emotion-Detection
+# EmotionAI Model Stack: Leveraging ResNet, EfficientNet, and ViT for Human Emotion Detection
 
 
 1. **Model Architectures**:
